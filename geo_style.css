@@ -1,0 +1,13 @@
+*{
+	font-family: arial;
+}
+.textao{
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 40%;
+	text-align: justify;
+	border: 5px solid #DDD;
+	margin-left:200px;
+	margin-top: 20px;
+	border-radius: 5px;
+}

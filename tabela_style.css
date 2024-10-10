@@ -1,0 +1,20 @@
+*{
+	font-family: arial;
+}
+table{
+	width: 45%;
+	background-color: #e0ceb5;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+table ul{
+	text-align: center;
+	list-style-type: none;
+}
+table td{
+	text-align: center;
+}
+table td:hover{
+	background-color: #C5A16F;
+}
